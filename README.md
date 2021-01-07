@@ -6,3 +6,5 @@ I am looking for an **entry-level job in information technology** with a growth-
 ![Snake Game](https://github.com/Suganyapselvam1/portfolio/blob/main/Snake%20game.gif?raw=true)
 ![TicTac Game](https://github.com/Suganyapselvam1/portfolio/blob/main/TicTacToe.gif?raw=true)
 ![Flow Game](https://github.com/Suganyapselvam1/portfolio/blob/main/Flow.gif?raw=true)
+![Tetris Game](https://github.com/Suganyapselvam1/portfolio/blob/main/Flow.gif?raw=true)
+![Sudoku Game](https://github.com/Suganyapselvam1/portfolio/blob/main/Flow.gif?raw=true)
